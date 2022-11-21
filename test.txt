@@ -1,0 +1,11 @@
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/migrations/00-create_database.sql
+
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/migrations/01-create_customers_table.sql
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/migrations/02-create_products_table.sql
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/migrations/03-create_purchases_table.sql
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/migrations/04-create_details_table.sql
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/data/customers.csv
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/data/products.csv
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/data/purchase_details.csv
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/data/purchases.csv
+C:/Users/javil/intro_dev/sql-test-prep-Cayigreat/migrations/05-seed_data.sql
